@@ -1,0 +1,14 @@
+hashtable.cpp运行结果:
+ran ht,10 items,10 hashTable
+插入结果
+ key[ 0]= 17 key[ 1]= 62 key[ 2]= 96 key[ 3]=  9 key[ 4]= 71
+ key[ 5]= 75 key[ 6]= 53 key[ 7]= 12 key[ 8]= 88 key[ 9]= 11
+
+查找结果
+ key[ 9]= 11 key[ 8]= 88 key[ 7]= 12 key[ 6]= 53 key[ 5]= 75
+ key[ 4]= 71 key[ 3]=  9 key[ 2]= 96 key[ 1]= 62 key[ 0]= 17
+
+删除结果
+ key[ 9]= 11 key[ 8]= 88 key[ 7]= 12 key[ 6]= 53 key[ 5]= 75
+ key[ 4]= 71 key[ 3]=  9 key[ 2]= 96 key[ 1]= 62 key[ 0]= 17
+ 

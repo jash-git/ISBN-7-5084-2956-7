@@ -1,0 +1,38 @@
+duifa3.cpp运行结果:
+Vector v before make_heap:
+68 61 6 16 47 59 45 53 36 68 
+Vector v after make_heap:
+68 68 59 53 61 6 45 16 36 47 
+Vector v after sort_heap:
+6 16 36 45 47 53 59 61 68 68 
+Array a contains: 68 61 6 16 47 59 45 53 36 68 
+v2 after push_heap(a[0]): 68 
+v2 after push_heap(a[1]): 68 61 
+v2 after push_heap(a[2]): 68 61 6 
+v2 after push_heap(a[3]): 68 61 6 16 
+v2 after push_heap(a[4]): 68 61 6 16 47 
+v2 after push_heap(a[5]): 68 61 59 16 47 6 
+v2 after push_heap(a[6]): 68 61 59 16 47 6 45 
+v2 after push_heap(a[7]): 68 61 59 53 47 6 45 16 
+v2 after push_heap(a[8]): 68 61 59 53 47 6 45 16 36 
+v2 after push_heap(a[9]): 68 68 59 53 61 6 45 16 36 47 
+v2 after 68 popped from heap
+68 61 59 53 47 6 45 16 36 68 
+v2 after 68 popped from heap
+61 53 59 36 47 6 45 16 68 68 
+v2 after 61 popped from heap
+59 53 45 36 47 6 16 61 68 68 
+v2 after 59 popped from heap
+53 47 45 36 16 6 59 61 68 68 
+v2 after 53 popped from heap
+47 36 45 6 16 53 59 61 68 68 
+v2 after 47 popped from heap
+45 36 16 6 47 53 59 61 68 68 
+v2 after 45 popped from heap
+36 6 16 45 47 53 59 61 68 68 
+v2 after 36 popped from heap
+16 6 36 45 47 53 59 61 68 68 
+v2 after 16 popped from heap
+6 16 36 45 47 53 59 61 68 68 
+v2 after 6 popped from heap
+6 16 36 45 47 53 59 61 68 68 

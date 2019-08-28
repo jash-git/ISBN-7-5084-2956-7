@@ -1,0 +1,5 @@
+TBSTree1M.cpp运行结果:
+线索二叉树的中序正向遍历序列为:
+D  G  B  A  E  C  F  
+线索二叉树的中序正向遍历序列为:
+R  P  W  N  Q  M  O  

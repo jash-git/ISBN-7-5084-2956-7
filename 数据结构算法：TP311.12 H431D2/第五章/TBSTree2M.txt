@@ -1,0 +1,9 @@
+TBSTree2M.cpp运行结果:
+二叉树的中序正向遍历序列为:
+D  G  B  A  E  C  F  
+二叉树的中序反向遍历序列为:
+F  C  E  A  B  G  D  
+二叉树的中序正向遍历序列为:
+R  P  W  N  Q  M  O  
+二叉树的中序反向遍历序列为:
+O  M  Q  N  W  P  R  

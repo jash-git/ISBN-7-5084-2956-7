@@ -1,0 +1,8 @@
+VLArgument.cpp运行结果:
+w = 36.5
+x = 21.5
+y = 1.9
+z = 10.1
+The average of w and x is 29.000
+The average of w, x, and y is 19.967
+The average of w, x, y, and z is 17.500

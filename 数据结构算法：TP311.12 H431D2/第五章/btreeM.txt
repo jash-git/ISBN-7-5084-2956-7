@@ -1,0 +1,17 @@
+btreeM.cpp运行结果:
+创建的二叉树为:
+ a b c d e f g h i j k l m n o
+二叉树非空!
+先序遍历二叉树:
+a b c d e f g h i j k l m n o 
+中序遍历二叉树:
+b a d c f e h g j i l k n m o 
+后序遍历二叉树:
+b d f h j l n o m k i g e c a 
+按层遍历二叉树:
+a b c d e f g h i j k l m n o 
+二叉树的深度=8
+二叉树的所有结点数=15
+二叉树的所有叶子结点数=8
+按二叉树的广义表输出:
+(a(b,c(d,e(f,g(h,i(j,k(l,m(n,o))))))))

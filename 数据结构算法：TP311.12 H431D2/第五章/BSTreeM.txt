@@ -1,0 +1,22 @@
+BSTreeM.cpp运行结果:
+二叉搜索树的所有结点数=14
+二叉搜索树非空!
+中序遍历二叉搜索树:
+M N a b c d e f g k l x y z 
+二叉搜索树的深度=10
+二叉搜索树的所有叶子结点数=3
+按二叉搜索树的广义表输出二叉搜索树:
+(a(M,N,b,x(c,d,e,f,g,k,l,y,z)))
+查找成功!
+更新成功!
+中序遍历二叉搜索树:
+M N a b c D e f g k l x y z 
+中序遍历二叉搜索树:
+M N a b c D e f g k l m x y z 
+中序遍历二叉搜索树:
+M N a b c D e f g k l m n x y z 
+二叉搜索树的深度=12
+删除成功!
+中序遍历二叉搜索树:
+M N a b c D f g k l m n x y z 
+二叉搜索树的深度=11

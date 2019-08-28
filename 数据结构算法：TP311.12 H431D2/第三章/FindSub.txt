@@ -1,0 +1,12 @@
+FindSub.cpp运行结果:
+GetNext-IndexKMP的结果:
+输入主串s1:aaabaaaab
+输入模式串t1:aaaab
+主串s1长=9
+模式串t1长=5
+next[0]=-1 next[1]=0 next[2]=1 next[3]=2 next[4]=3 
+
+模式串在主串的位置从第4个字符开始
+IndexBF的结果:
+模式串t在主串s中的位置从第4个字符开始
+

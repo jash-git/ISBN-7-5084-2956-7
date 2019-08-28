@@ -1,0 +1,5 @@
+Huffman2.cpp运行结果:
+weight=1  Code=100
+weight=3  Code=101
+weight=5  Code=11
+weight=7  Code=0
